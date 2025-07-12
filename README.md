@@ -53,4 +53,5 @@ This will install pyenv along with a few plugins that are useful:
     pip install vosk
     python vosk/main.py
 
-    python _mozillaDeepSpeech/main.py
+    pip install pocketsphinx
+    python pocketsphinx/main.py

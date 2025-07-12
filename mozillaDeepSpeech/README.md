@@ -1,5 +1,7 @@
 # SpeechRecognition
 
+STOPPED : outdated
+
 ## Prerequisites
 
 git clone https://github.com/mozilla/DeepSpeech
