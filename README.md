@@ -54,4 +54,7 @@ This will install pyenv along with a few plugins that are useful:
     python vosk/main.py
 
     pip install pocketsphinx
-    python pocketsphinx/main.py
+    python pocketsphinx/main.py # Live speech to text
+
+    pip install openai-whisper
+    python whisper/main.py
