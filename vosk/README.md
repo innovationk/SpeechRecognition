@@ -1,5 +1,3 @@
 # SpeechRecognition
 
 ## Prerequisites
-
-python3 -V # 3.12
