@@ -21,6 +21,6 @@ def transcribe_audio(audio_file_path):
     text = json.loads(result)['text']
     return text
 
-audio_file_path = './samples/easyPlot.wav'
+audio_file_path = './samples/mininalLong.wav'
 text = transcribe_audio(audio_file_path)
 print(text)
