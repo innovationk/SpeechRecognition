@@ -50,4 +50,7 @@ This will install pyenv along with a few plugins that are useful:
 
 ## Launch
 
-python mozillaDeepSpeech/main.py
+    pip install vosk
+    python vosk/main.py
+
+    python _mozillaDeepSpeech/main.py

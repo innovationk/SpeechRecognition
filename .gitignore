@@ -1,3 +1,8 @@
+.DS_Store
+vosk-model-en-us-0.22
+deepspeech-0.9.3-models.pbmm
+deepspeech-0.9.3-models.scorer
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
